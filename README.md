@@ -9,7 +9,7 @@
 
 <div align="center" style="display:flex;justify-content:center;align-items:center;gap:20px;flex-wrap:wrap;">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTI5MndxazhvcHR4ZjNmcHNic2FrZjRjMHUzam92OGk0anFua2tlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7J4P7cUur2DlErijp3/giphy.gif" width="240" alt="Laravel GIF" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2NuZzVhMHJrNmZ3ZHhwYWUxOXJlc2o2d2xkMjNjbXNiY29objhpOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/giphy.gif" width="240" alt="Laravel GIF" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
