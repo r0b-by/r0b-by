@@ -1,11 +1,11 @@
-<section>
+<section align="center">
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Hi+I'm+Robby;Laravel+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 ---
 
-##### ✍️Laravel Vibes + Dev Quote
+### ✨ Laravel Vibes + Dev Quote
 
 <div align="center" style="display:flex;justify-content:center;align-items:center;gap:20px;flex-wrap:wrap;">
 
@@ -15,7 +15,10 @@
 
 </div>
 
-#### 💻Tech Stack
+---
+
+### 💻 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -30,8 +33,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=r0b-by&theme=shadow_blue&hide_border=true)  
-![](https://github-contributor-stats.vercel.app/api?username=r0b-by&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=r0b-by&theme=shadow_blue&hide_border=true)![](https://github-contributor-stats.vercel.app/api?username=r0b-by&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
