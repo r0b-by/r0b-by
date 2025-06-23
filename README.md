@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=r0b-by&theme=shadow_blue&hide_border=true)![](https://github-contributor-stats.vercel.app/api?username=r0b-by&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=r0b-by&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b-by&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
